@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Casper Theme"
 theme = "hugo-theme-casper"
-disqusShortname = "spf13"
+disqusShortname = "cash-flow-challenge"
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
@@ -12,14 +12,14 @@ canonifyurls = true
 [params]
   description = "this is my description"
   cover = "images/cover.jpg"
-  author = "Valère JEANTET"
-  authorlocation = "Paris, France"
-  authorwebsite = "http://vjeantet.fr"
+  author = "Bill A"
+  authorlocation = "Virginia"
+  authorwebsite = "https://billa.com"
   bio= "my bio"
   logo = "images/logo.png"
   googleAnalyticsUserID = "UA-79101-12"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
-  RSSLink = "http://feeds.feedburner.com/..."
+  #RSSLink = "http://feeds.feedburner.com/..."
   githubName = "vjeantet"
   twitterName = "vjeantet"
   # facebookName = ""
