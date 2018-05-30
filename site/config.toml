@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Casper Theme"
+title = "Cash Flow Challenge"
 theme = "hugo-theme-casper"
 disqusShortname = "cash-flow-challenge"
 # Enable Google Analytics by inserting your tracking code
@@ -10,7 +10,7 @@ paginate = 10
 canonifyurls = true
 
 [params]
-  description = "this is my description"
+  description = "100 Games, 100 Properties, 1 Crazy New Life"
   cover = "images/cover.jpg"
   author = "Bill A"
   authorlocation = "Virginia"
